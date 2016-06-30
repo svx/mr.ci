@@ -8,3 +8,5 @@ Dependencies
 ------------
 
 - `Docker <https://docker.com>`_
+- `mr.docs <https://mrdocs.readthedocs.io/en/latest/>`_
+
